@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/eaibot/slam_ws/install/setup.sh

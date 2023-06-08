@@ -1,0 +1,2 @@
+laser_scan_matcher:mbot_teleop:nav_demo:show_path
+-DCATKIN_DEVEL_PREFIX=/home/eaibot/slam_ws/devel -DCMAKE_INSTALL_PREFIX=/home/eaibot/slam_ws/install -G Unix Makefiles

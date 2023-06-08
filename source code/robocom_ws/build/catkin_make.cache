@@ -1,0 +1,2 @@
+astra_camera:darknet_ros/darknet_ros:darknet_ros/darknet_ros_msgs:rviz_tools/src/dashgo_rviz:usb_cam:xpkg_bringup:xpkg_comm:xpkg_vehicle:ydlidar_ros_driver
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/eaibot/robocom_ws/devel -DCMAKE_INSTALL_PREFIX=/home/eaibot/robocom_ws/install -G Unix Makefiles
